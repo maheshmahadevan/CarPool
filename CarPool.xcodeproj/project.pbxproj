@@ -1,0 +1,409 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* CarPoolAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* CarPoolAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765A40DF7441C002DB57D /* CoreGraphics.framework */; };
+		2899E5220DE3E06400AC0155 /* LoginView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2899E5210DE3E06400AC0155 /* LoginView.xib */; };
+		28D7ACF80DDB3853001CB0EB /* CarPoolViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D7ACF70DDB3853001CB0EB /* CarPoolViewController.m */; };
+		E032383611E40E60001A44D5 /* SearchView.xib in Resources */ = {isa = PBXBuildFile; fileRef = E032383511E40E60001A44D5 /* SearchView.xib */; };
+		E032385111E41331001A44D5 /* SearchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E032385011E41331001A44D5 /* SearchViewController.m */; };
+		E032385611E4137C001A44D5 /* FormViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E032385511E4137C001A44D5 /* FormViewController.m */; };
+		E032386F11E41404001A44D5 /* FormView.xib in Resources */ = {isa = PBXBuildFile; fileRef = E032386E11E41404001A44D5 /* FormView.xib */; };
+		E032387411E414CE001A44D5 /* CommViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E032387311E414CE001A44D5 /* CommViewController.m */; };
+		E032387A11E414F6001A44D5 /* Community.xib in Resources */ = {isa = PBXBuildFile; fileRef = E032387911E414F6001A44D5 /* Community.xib */; };
+		E05235A113AF141800C30914 /* _44013857_glo_sun_tewkesbury_cars.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E05235A013AF141800C30914 /* _44013857_glo_sun_tewkesbury_cars.jpg */; };
+		E075509C11EFF44200EB8B9E /* RegViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E075509B11EFF44200EB8B9E /* RegViewController.m */; };
+		E07550A011EFF49C00EB8B9E /* Register.xib in Resources */ = {isa = PBXBuildFile; fileRef = E075509F11EFF49C00EB8B9E /* Register.xib */; };
+		E075514C11F027F200EB8B9E /* OfferRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = E075514B11F027F200EB8B9E /* OfferRequest.m */; };
+		E07552A211F263A900EB8B9E /* User.m in Sources */ = {isa = PBXBuildFile; fileRef = E07552A111F263A900EB8B9E /* User.m */; };
+		E07552DB11F2747300EB8B9E /* Community.m in Sources */ = {isa = PBXBuildFile; fileRef = E07552DA11F2747300EB8B9E /* Community.m */; };
+		E07553BF11F31E7300EB8B9E /* UserXMLParser.m in Sources */ = {isa = PBXBuildFile; fileRef = E07553BE11F31E7300EB8B9E /* UserXMLParser.m */; };
+		E07554DF11F392D900EB8B9E /* OfferRequestXMLParser.m in Sources */ = {isa = PBXBuildFile; fileRef = E07554DE11F392D900EB8B9E /* OfferRequestXMLParser.m */; };
+		E075556911F3BEA000EB8B9E /* Reply.xib in Resources */ = {isa = PBXBuildFile; fileRef = E075556811F3BEA000EB8B9E /* Reply.xib */; };
+		E075556E11F3BEBE00EB8B9E /* ReplyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E075556D11F3BEBE00EB8B9E /* ReplyViewController.m */; };
+		E07556BD11F42EDA00EB8B9E /* Notification.m in Sources */ = {isa = PBXBuildFile; fileRef = E07556BC11F42EDA00EB8B9E /* Notification.m */; };
+		E07556C211F42F9D00EB8B9E /* NotificationXMLParser.m in Sources */ = {isa = PBXBuildFile; fileRef = E07556C111F42F9D00EB8B9E /* NotificationXMLParser.m */; };
+		E09B939311E8C07A00B0ADDF /* black_car.png in Resources */ = {isa = PBXBuildFile; fileRef = E09B939211E8C07A00B0ADDF /* black_car.png */; };
+		E09B93DA11E9304B00B0ADDF /* NotifyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E09B93D911E9304B00B0ADDF /* NotifyViewController.m */; };
+		E09B93DE11E9306700B0ADDF /* Notification.xib in Resources */ = {isa = PBXBuildFile; fileRef = E09B93DD11E9306700B0ADDF /* Notification.xib */; };
+		E09B93E811E9352B00B0ADDF /* 18-envelope.png in Resources */ = {isa = PBXBuildFile; fileRef = E09B93E711E9352B00B0ADDF /* 18-envelope.png */; };
+		E09B93EC11E9359900B0ADDF /* 06-magnifying-glass.png in Resources */ = {isa = PBXBuildFile; fileRef = E09B93EB11E9359900B0ADDF /* 06-magnifying-glass.png */; };
+		E09B93F011E9367700B0ADDF /* 112-group.png in Resources */ = {isa = PBXBuildFile; fileRef = E09B93EF11E9367700B0ADDF /* 112-group.png */; };
+		E09B93F411E936FB00B0ADDF /* 47-fuel.png in Resources */ = {isa = PBXBuildFile; fileRef = E09B93F311E936FB00B0ADDF /* 47-fuel.png */; };
+		E09B940C11E9B34100B0ADDF /* CreateComm.xib in Resources */ = {isa = PBXBuildFile; fileRef = E09B940B11E9B34100B0ADDF /* CreateComm.xib */; };
+		E09B941011E9B35800B0ADDF /* JoinComm.xib in Resources */ = {isa = PBXBuildFile; fileRef = E09B940F11E9B35800B0ADDF /* JoinComm.xib */; };
+		E09B941411E9B36800B0ADDF /* InviteFriends.xib in Resources */ = {isa = PBXBuildFile; fileRef = E09B941311E9B36800B0ADDF /* InviteFriends.xib */; };
+		E09B941C11EA1CE000B0ADDF /* CreateComViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E09B941B11EA1CE000B0ADDF /* CreateComViewController.m */; };
+		E09B942111EA1D0300B0ADDF /* JoinComViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E09B942011EA1D0300B0ADDF /* JoinComViewController.m */; };
+		E09B942611EA1D1800B0ADDF /* InviteViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E09B942511EA1D1800B0ADDF /* InviteViewController.m */; };
+		E09B953311EFE83F00B0ADDF /* WebServiceProcessor.m in Sources */ = {isa = PBXBuildFile; fileRef = E09B953211EFE83F00B0ADDF /* WebServiceProcessor.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* CarPoolAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CarPoolAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* CarPoolAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CarPoolAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* CarPool.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CarPool.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765A40DF7441C002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		2899E5210DE3E06400AC0155 /* LoginView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = LoginView.xib; sourceTree = "<group>"; };
+		28D7ACF60DDB3853001CB0EB /* CarPoolViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CarPoolViewController.h; sourceTree = "<group>"; };
+		28D7ACF70DDB3853001CB0EB /* CarPoolViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CarPoolViewController.m; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* CarPool_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CarPool_Prefix.pch; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* CarPool-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "CarPool-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		E032383511E40E60001A44D5 /* SearchView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SearchView.xib; sourceTree = "<group>"; };
+		E032384F11E41331001A44D5 /* SearchViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SearchViewController.h; sourceTree = "<group>"; };
+		E032385011E41331001A44D5 /* SearchViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SearchViewController.m; sourceTree = "<group>"; };
+		E032385411E4137C001A44D5 /* FormViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FormViewController.h; sourceTree = "<group>"; };
+		E032385511E4137C001A44D5 /* FormViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FormViewController.m; sourceTree = "<group>"; };
+		E032386E11E41404001A44D5 /* FormView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = FormView.xib; path = Classes/FormView.xib; sourceTree = "<group>"; };
+		E032387211E414CE001A44D5 /* CommViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CommViewController.h; path = ../CommViewController.h; sourceTree = "<group>"; };
+		E032387311E414CE001A44D5 /* CommViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CommViewController.m; path = ../CommViewController.m; sourceTree = "<group>"; };
+		E032387911E414F6001A44D5 /* Community.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = Community.xib; sourceTree = "<group>"; };
+		E05235A013AF141800C30914 /* _44013857_glo_sun_tewkesbury_cars.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = _44013857_glo_sun_tewkesbury_cars.jpg; path = Classes/_44013857_glo_sun_tewkesbury_cars.jpg; sourceTree = "<group>"; };
+		E075509A11EFF44200EB8B9E /* RegViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RegViewController.h; sourceTree = "<group>"; };
+		E075509B11EFF44200EB8B9E /* RegViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RegViewController.m; sourceTree = "<group>"; };
+		E075509F11EFF49C00EB8B9E /* Register.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Register.xib; path = Classes/Register.xib; sourceTree = "<group>"; };
+		E075514A11F027F200EB8B9E /* OfferRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OfferRequest.h; sourceTree = "<group>"; };
+		E075514B11F027F200EB8B9E /* OfferRequest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OfferRequest.m; sourceTree = "<group>"; };
+		E07552A011F263A900EB8B9E /* User.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = User.h; sourceTree = "<group>"; };
+		E07552A111F263A900EB8B9E /* User.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = User.m; sourceTree = "<group>"; };
+		E07552D911F2747300EB8B9E /* Community.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Community.h; sourceTree = "<group>"; };
+		E07552DA11F2747300EB8B9E /* Community.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Community.m; sourceTree = "<group>"; };
+		E07553BD11F31E7300EB8B9E /* UserXMLParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UserXMLParser.h; sourceTree = "<group>"; };
+		E07553BE11F31E7300EB8B9E /* UserXMLParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UserXMLParser.m; sourceTree = "<group>"; };
+		E07554DD11F392D900EB8B9E /* OfferRequestXMLParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OfferRequestXMLParser.h; sourceTree = "<group>"; };
+		E07554DE11F392D900EB8B9E /* OfferRequestXMLParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OfferRequestXMLParser.m; sourceTree = "<group>"; };
+		E075556811F3BEA000EB8B9E /* Reply.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Reply.xib; path = Classes/Reply.xib; sourceTree = "<group>"; };
+		E075556C11F3BEBE00EB8B9E /* ReplyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ReplyViewController.h; path = ../ReplyViewController.h; sourceTree = "<group>"; };
+		E075556D11F3BEBE00EB8B9E /* ReplyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ReplyViewController.m; path = ../ReplyViewController.m; sourceTree = "<group>"; };
+		E07556BB11F42EDA00EB8B9E /* Notification.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Notification.h; sourceTree = "<group>"; };
+		E07556BC11F42EDA00EB8B9E /* Notification.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Notification.m; sourceTree = "<group>"; };
+		E07556C011F42F9D00EB8B9E /* NotificationXMLParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NotificationXMLParser.h; sourceTree = "<group>"; };
+		E07556C111F42F9D00EB8B9E /* NotificationXMLParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NotificationXMLParser.m; sourceTree = "<group>"; };
+		E09B939211E8C07A00B0ADDF /* black_car.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = black_car.png; path = Classes/black_car.png; sourceTree = "<group>"; };
+		E09B93D811E9304B00B0ADDF /* NotifyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NotifyViewController.h; sourceTree = "<group>"; };
+		E09B93D911E9304B00B0ADDF /* NotifyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NotifyViewController.m; sourceTree = "<group>"; };
+		E09B93DD11E9306700B0ADDF /* Notification.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = Notification.xib; sourceTree = "<group>"; };
+		E09B93E711E9352B00B0ADDF /* 18-envelope.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "18-envelope.png"; path = "Classes/18-envelope.png"; sourceTree = "<group>"; };
+		E09B93EB11E9359900B0ADDF /* 06-magnifying-glass.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "06-magnifying-glass.png"; sourceTree = "<group>"; };
+		E09B93EF11E9367700B0ADDF /* 112-group.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "112-group.png"; sourceTree = "<group>"; };
+		E09B93F311E936FB00B0ADDF /* 47-fuel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "47-fuel.png"; sourceTree = "<group>"; };
+		E09B940B11E9B34100B0ADDF /* CreateComm.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CreateComm.xib; sourceTree = "<group>"; };
+		E09B940F11E9B35800B0ADDF /* JoinComm.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = JoinComm.xib; sourceTree = "<group>"; };
+		E09B941311E9B36800B0ADDF /* InviteFriends.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = InviteFriends.xib; sourceTree = "<group>"; };
+		E09B941A11EA1CE000B0ADDF /* CreateComViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CreateComViewController.h; path = ../CreateComViewController.h; sourceTree = "<group>"; };
+		E09B941B11EA1CE000B0ADDF /* CreateComViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CreateComViewController.m; path = ../CreateComViewController.m; sourceTree = "<group>"; };
+		E09B941F11EA1D0300B0ADDF /* JoinComViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JoinComViewController.h; sourceTree = "<group>"; };
+		E09B942011EA1D0300B0ADDF /* JoinComViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JoinComViewController.m; sourceTree = "<group>"; };
+		E09B942411EA1D1800B0ADDF /* InviteViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InviteViewController.h; sourceTree = "<group>"; };
+		E09B942511EA1D1800B0ADDF /* InviteViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InviteViewController.m; sourceTree = "<group>"; };
+		E09B953111EFE83F00B0ADDF /* WebServiceProcessor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WebServiceProcessor.h; sourceTree = "<group>"; };
+		E09B953211EFE83F00B0ADDF /* WebServiceProcessor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WebServiceProcessor.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				E07556BB11F42EDA00EB8B9E /* Notification.h */,
+				E07556BC11F42EDA00EB8B9E /* Notification.m */,
+				E07556C011F42F9D00EB8B9E /* NotificationXMLParser.h */,
+				E07556C111F42F9D00EB8B9E /* NotificationXMLParser.m */,
+				E07554DD11F392D900EB8B9E /* OfferRequestXMLParser.h */,
+				E07554DE11F392D900EB8B9E /* OfferRequestXMLParser.m */,
+				E07553BD11F31E7300EB8B9E /* UserXMLParser.h */,
+				E07553BE11F31E7300EB8B9E /* UserXMLParser.m */,
+				E075509A11EFF44200EB8B9E /* RegViewController.h */,
+				E075509B11EFF44200EB8B9E /* RegViewController.m */,
+				E07552D911F2747300EB8B9E /* Community.h */,
+				E07552DA11F2747300EB8B9E /* Community.m */,
+				E09B941A11EA1CE000B0ADDF /* CreateComViewController.h */,
+				E09B941B11EA1CE000B0ADDF /* CreateComViewController.m */,
+				E09B941F11EA1D0300B0ADDF /* JoinComViewController.h */,
+				E09B942011EA1D0300B0ADDF /* JoinComViewController.m */,
+				E032384F11E41331001A44D5 /* SearchViewController.h */,
+				E032385011E41331001A44D5 /* SearchViewController.m */,
+				1D3623240D0F684500981E51 /* CarPoolAppDelegate.h */,
+				1D3623250D0F684500981E51 /* CarPoolAppDelegate.m */,
+				E032387211E414CE001A44D5 /* CommViewController.h */,
+				E032387311E414CE001A44D5 /* CommViewController.m */,
+				28D7ACF60DDB3853001CB0EB /* CarPoolViewController.h */,
+				28D7ACF70DDB3853001CB0EB /* CarPoolViewController.m */,
+				E09B93D811E9304B00B0ADDF /* NotifyViewController.h */,
+				E09B93D911E9304B00B0ADDF /* NotifyViewController.m */,
+				E032385411E4137C001A44D5 /* FormViewController.h */,
+				E032385511E4137C001A44D5 /* FormViewController.m */,
+				E07552A011F263A900EB8B9E /* User.h */,
+				E07552A111F263A900EB8B9E /* User.m */,
+				E075556C11F3BEBE00EB8B9E /* ReplyViewController.h */,
+				E075556D11F3BEBE00EB8B9E /* ReplyViewController.m */,
+				E09B942411EA1D1800B0ADDF /* InviteViewController.h */,
+				E09B942511EA1D1800B0ADDF /* InviteViewController.m */,
+				E09B953111EFE83F00B0ADDF /* WebServiceProcessor.h */,
+				E09B953211EFE83F00B0ADDF /* WebServiceProcessor.m */,
+				E075514A11F027F200EB8B9E /* OfferRequest.h */,
+				E075514B11F027F200EB8B9E /* OfferRequest.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* CarPool.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* CarPool_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				E075556811F3BEA000EB8B9E /* Reply.xib */,
+				E075509F11EFF49C00EB8B9E /* Register.xib */,
+				E05235A013AF141800C30914 /* _44013857_glo_sun_tewkesbury_cars.jpg */,
+				E09B93E711E9352B00B0ADDF /* 18-envelope.png */,
+				E09B93EF11E9367700B0ADDF /* 112-group.png */,
+				E09B93EB11E9359900B0ADDF /* 06-magnifying-glass.png */,
+				E09B93F311E936FB00B0ADDF /* 47-fuel.png */,
+				E09B939211E8C07A00B0ADDF /* black_car.png */,
+				E032386E11E41404001A44D5 /* FormView.xib */,
+				E09B940B11E9B34100B0ADDF /* CreateComm.xib */,
+				E09B940F11E9B35800B0ADDF /* JoinComm.xib */,
+				E09B941311E9B36800B0ADDF /* InviteFriends.xib */,
+				2899E5210DE3E06400AC0155 /* LoginView.xib */,
+				8D1107310486CEB800E47090 /* CarPool-Info.plist */,
+				E032383511E40E60001A44D5 /* SearchView.xib */,
+				E032387911E414F6001A44D5 /* Community.xib */,
+				E09B93DD11E9306700B0ADDF /* Notification.xib */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765A40DF7441C002DB57D /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* CarPool */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "CarPool" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CarPool;
+			productName = CarPool;
+			productReference = 1D6058910D05DD3D006BFB54 /* CarPool.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "CarPool" */;
+			compatibilityVersion = "Xcode 3.1";
+			hasScannedForEncodings = 1;
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* CarPool */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2899E5220DE3E06400AC0155 /* LoginView.xib in Resources */,
+				E032383611E40E60001A44D5 /* SearchView.xib in Resources */,
+				E032386F11E41404001A44D5 /* FormView.xib in Resources */,
+				E032387A11E414F6001A44D5 /* Community.xib in Resources */,
+				E09B939311E8C07A00B0ADDF /* black_car.png in Resources */,
+				E09B93DE11E9306700B0ADDF /* Notification.xib in Resources */,
+				E09B93E811E9352B00B0ADDF /* 18-envelope.png in Resources */,
+				E09B93EC11E9359900B0ADDF /* 06-magnifying-glass.png in Resources */,
+				E09B93F011E9367700B0ADDF /* 112-group.png in Resources */,
+				E09B93F411E936FB00B0ADDF /* 47-fuel.png in Resources */,
+				E09B940C11E9B34100B0ADDF /* CreateComm.xib in Resources */,
+				E09B941011E9B35800B0ADDF /* JoinComm.xib in Resources */,
+				E09B941411E9B36800B0ADDF /* InviteFriends.xib in Resources */,
+				E07550A011EFF49C00EB8B9E /* Register.xib in Resources */,
+				E075556911F3BEA000EB8B9E /* Reply.xib in Resources */,
+				E05235A113AF141800C30914 /* _44013857_glo_sun_tewkesbury_cars.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* CarPoolAppDelegate.m in Sources */,
+				28D7ACF80DDB3853001CB0EB /* CarPoolViewController.m in Sources */,
+				E032385111E41331001A44D5 /* SearchViewController.m in Sources */,
+				E032385611E4137C001A44D5 /* FormViewController.m in Sources */,
+				E032387411E414CE001A44D5 /* CommViewController.m in Sources */,
+				E09B93DA11E9304B00B0ADDF /* NotifyViewController.m in Sources */,
+				E09B941C11EA1CE000B0ADDF /* CreateComViewController.m in Sources */,
+				E09B942111EA1D0300B0ADDF /* JoinComViewController.m in Sources */,
+				E09B942611EA1D1800B0ADDF /* InviteViewController.m in Sources */,
+				E09B953311EFE83F00B0ADDF /* WebServiceProcessor.m in Sources */,
+				E075509C11EFF44200EB8B9E /* RegViewController.m in Sources */,
+				E075514C11F027F200EB8B9E /* OfferRequest.m in Sources */,
+				E07552A211F263A900EB8B9E /* User.m in Sources */,
+				E07552DB11F2747300EB8B9E /* Community.m in Sources */,
+				E07553BF11F31E7300EB8B9E /* UserXMLParser.m in Sources */,
+				E07554DF11F392D900EB8B9E /* OfferRequestXMLParser.m in Sources */,
+				E075556E11F3BEBE00EB8B9E /* ReplyViewController.m in Sources */,
+				E07556BD11F42EDA00EB8B9E /* Notification.m in Sources */,
+				E07556C211F42F9D00EB8B9E /* NotificationXMLParser.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = CarPool_Prefix.pch;
+				INFOPLIST_FILE = "CarPool-Info.plist";
+				PRODUCT_NAME = CarPool;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = CarPool_Prefix.pch;
+				INFOPLIST_FILE = "CarPool-Info.plist";
+				PRODUCT_NAME = CarPool;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphonesimulator4.0;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				SDKROOT = iphoneos4.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "CarPool" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "CarPool" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

@@ -1,0 +1,1299 @@
+TCarPool
+v7
+r0
+t330242190.767978
+cCheck dependencies
+cProcessInfoPlistFile /Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/Info.plist CarPool-Info.plist
+cCompileXIB /Users/Madhura/Documents/CarPool/LoginView.xib
+cCompileXIB /Users/Madhura/Documents/CarPool/SearchView.xib
+cCompileXIB /Users/Madhura/Documents/CarPool/Classes/FormView.xib
+cCompileXIB /Users/Madhura/Documents/CarPool/Community.xib
+cCpResource build/Debug-iphonesimulator/CarPool.app/black_car.png Classes/black_car.png
+cCompileXIB /Users/Madhura/Documents/CarPool/Notification.xib
+cCpResource build/Debug-iphonesimulator/CarPool.app/18-envelope.png Classes/18-envelope.png
+cCpResource build/Debug-iphonesimulator/CarPool.app/06-magnifying-glass.png 06-magnifying-glass.png
+cCpResource build/Debug-iphonesimulator/CarPool.app/112-group.png 112-group.png
+cCpResource build/Debug-iphonesimulator/CarPool.app/47-fuel.png 47-fuel.png
+cCompileXIB /Users/Madhura/Documents/CarPool/CreateComm.xib
+cCompileXIB /Users/Madhura/Documents/CarPool/JoinComm.xib
+cCompileXIB /Users/Madhura/Documents/CarPool/InviteFriends.xib
+cCompileXIB /Users/Madhura/Documents/CarPool/Classes/Register.xib
+cCompileXIB /Users/Madhura/Documents/CarPool/Classes/Reply.xib
+cCpResource build/Debug-iphonesimulator/CarPool.app/_44013857_glo_sun_tewkesbury_cars.jpg Classes/_44013857_glo_sun_tewkesbury_cars.jpg
+cProcessPCH /var/folders/1a/1auQ+tVAEzKi1NeT9Z7pVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarPool_Prefix-ahxpykwtnthdvteyyzwaseykeqhm/CarPool_Prefix.pch.gch CarPool_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/main.o /Users/Madhura/Documents/CarPool/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/CarPoolAppDelegate.o /Users/Madhura/Documents/CarPool/Classes/CarPoolAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/CarPoolViewController.o /Users/Madhura/Documents/CarPool/Classes/CarPoolViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/SearchViewController.o /Users/Madhura/Documents/CarPool/Classes/SearchViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/FormViewController.o /Users/Madhura/Documents/CarPool/Classes/FormViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/CommViewController.o /Users/Madhura/Documents/CarPool/Classes/../CommViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/NotifyViewController.o /Users/Madhura/Documents/CarPool/Classes/NotifyViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/CreateComViewController.o /Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/JoinComViewController.o /Users/Madhura/Documents/CarPool/Classes/JoinComViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/InviteViewController.o /Users/Madhura/Documents/CarPool/Classes/InviteViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/WebServiceProcessor.o /Users/Madhura/Documents/CarPool/Classes/WebServiceProcessor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/RegViewController.o /Users/Madhura/Documents/CarPool/Classes/RegViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/OfferRequest.o /Users/Madhura/Documents/CarPool/Classes/OfferRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/User.o /Users/Madhura/Documents/CarPool/Classes/User.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/Community.o /Users/Madhura/Documents/CarPool/Classes/Community.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/UserXMLParser.o /Users/Madhura/Documents/CarPool/Classes/UserXMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/OfferRequestXMLParser.o /Users/Madhura/Documents/CarPool/Classes/OfferRequestXMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/ReplyViewController.o /Users/Madhura/Documents/CarPool/Classes/../ReplyViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/Notification.o /Users/Madhura/Documents/CarPool/Classes/Notification.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/NotificationXMLParser.o /Users/Madhura/Documents/CarPool/Classes/NotificationXMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/CarPool normal i386
+cGenerateDSYMFile /Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app.dSYM /Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/CarPool
+cTouch /Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004BD236930000000000000110
+t1272067731
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C2AE1230000000000000132
+t1277878563
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/Madhura/Documents/CarPool/06-magnifying-glass.png
+c000000004972250E0000000000000184
+t1232217358
+s388
+
+N/Users/Madhura/Documents/CarPool/112-group.png
+c000000004B832F4200000000000001D3
+t1266888514
+s467
+
+N/Users/Madhura/Documents/CarPool/47-fuel.png
+c0000000049B4C78E0000000000000193
+t1236584334
+s403
+
+N/Users/Madhura/Documents/CarPool/CarPoolViewController.xib
+c000000004C32B2180000000000001A45
+t1278390808
+s6725
+
+N/Users/Madhura/Documents/CarPool/CarPool_Prefix.pch
+c000000004C32B21800000000000000B7
+t1278390808
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Madhura/Documents/CarPool/Classes/../CommViewController.h
+c000000004C43ED4D0000000000000279
+t1279520077
+s633
+i<UIKit/UIKit.h>
+i"CreateComViewController.h"
+i"JoinComViewController.h"
+i"InviteViewController.h"
+i"WebServiceProcessor.h"
+
+N/Users/Madhura/Documents/CarPool/Classes/../CommViewController.m
+c000000004C440F180000000000000B45
+t1279528728
+s2885
+i"CommViewController.h"
+
+N/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m
+c000000004C4412140000000000002048
+t1279529492
+s8264
+i"CreateComViewController.h"
+
+N/Users/Madhura/Documents/CarPool/Classes/../ReplyViewController.h
+c000000004C44126100000000000002CD
+t1279529569
+s717
+i<UIKit/UIKit.h>
+i"OfferRequest.h"
+i"User.h"
+i"WebServiceProcessor.h"
+
+N/Users/Madhura/Documents/CarPool/Classes/../ReplyViewController.m
+c000000004C442741000000000000220A
+t1279534913
+s8714
+i"ReplyViewController.h"
+
+N/Users/Madhura/Documents/CarPool/Classes/18-envelope.png
+c000000004972258600000000000000F8
+t1232217478
+s248
+
+N/Users/Madhura/Documents/CarPool/Classes/CarPool.h
+c000000004C33D68700000000000000BF
+t1278465671
+s191
+i<UIKit/UIKit.h>
+
+N/Users/Madhura/Documents/CarPool/Classes/CarPool.m
+c000000004C33D68700000000000005E6
+t1278465671
+s1510
+i"CarPool.h"
+
+N/Users/Madhura/Documents/CarPool/Classes/CarPoolAppDelegate.h
+c000000004C32B21800000000000001CC
+t1278390808
+s460
+i<UIKit/UIKit.h>
+
+N/Users/Madhura/Documents/CarPool/Classes/CarPoolAppDelegate.m
+c000000004C43DB070000000000000CEB
+t1279515399
+s3307
+i"CarPoolAppDelegate.h"
+i"CarPoolViewController.h"
+
+N/Users/Madhura/Documents/CarPool/Classes/CarPoolTabController.m
+c000000004C33D68700000000000005E6
+t1278465671
+s1510
+i"CarPool.h"
+
+N/Users/Madhura/Documents/CarPool/Classes/CarPoolViewController.h
+c000000004C435AE80000000000000463
+t1279482600
+s1123
+i<UIKit/UIKit.h>
+i"FormViewController.h"
+i"NotifyViewController.h"
+i"SearchViewController.h"
+i"CommViewController.h"
+i"RegViewController.h"
+i"WebServiceProcessor.h"
+i"UserXMLParser.h"
+
+N/Users/Madhura/Documents/CarPool/Classes/CarPoolViewController.m
+c000000004C44130000000000000023EE
+t1279529728
+s9198
+i"CarPoolViewController.h"
+
+N/Users/Madhura/Documents/CarPool/Classes/Community.h
+c000000004C43573E000000000000023E
+t1279481662
+s574
+i<Foundation/Foundation.h>
+
+N/Users/Madhura/Documents/CarPool/Classes/Community.m
+c000000004C42CACD0000000000000369
+t1279445709
+s873
+i"Community.h"
+
+N/Users/Madhura/Documents/CarPool/Classes/FormView.xib
+c000000004C40108F000000000000ABD2
+t1279266959
+s43986
+
+N/Users/Madhura/Documents/CarPool/Classes/FormViewController.h
+c000000004C437F4E000000000000036A
+t1279491918
+s874
+i<UIKit/UIKit.h>
+i"OfferRequest.h"
+i"WebServiceProcessor.h"
+i"User.h"
+
+N/Users/Madhura/Documents/CarPool/Classes/FormViewController.m
+c000000004C4411E70000000000001BEF
+t1279529447
+s7151
+i"FormViewController.h"
+
+N/Users/Madhura/Documents/CarPool/Classes/InviteViewController.h
+c000000004C4421AF000000000000028B
+t1279533487
+s651
+i<UIKit/UIKit.h>
+i"User.h"
+i"Community.h"
+i"WebServiceProcessor.h"
+
+N/Users/Madhura/Documents/CarPool/Classes/InviteViewController.m
+c000000004C4424C90000000000001ED6
+t1279534281
+s7894
+i"InviteViewController.h"
+
+N/Users/Madhura/Documents/CarPool/Classes/JoinComViewController.h
+c000000004C39E58300000000000000DC
+t1278862723
+s220
+i<UIKit/UIKit.h>
+
+N/Users/Madhura/Documents/CarPool/Classes/JoinComViewController.m
+c000000004C43F685000000000000062F
+t1279522437
+s1583
+i"JoinComViewController.h"
+
+N/Users/Madhura/Documents/CarPool/Classes/Notification.h
+c000000004C43F7A90000000000000180
+t1279522729
+s384
+i<Foundation/Foundation.h>
+
+N/Users/Madhura/Documents/CarPool/Classes/Notification.m
+c000000004C43F8090000000000000197
+t1279522825
+s407
+i"Notification.h"
+
+N/Users/Madhura/Documents/CarPool/Classes/NotificationXMLParser.h
+c000000004C43F97D00000000000002E4
+t1279523197
+s740
+i<Foundation/Foundation.h>
+i"Notification.h"
+
+N/Users/Madhura/Documents/CarPool/Classes/NotificationXMLParser.m
+c000000004C44043E0000000000000B0C
+t1279525950
+s2828
+i"NotificationXMLParser.h"
+
+N/Users/Madhura/Documents/CarPool/Classes/NotifyViewController.h
+c000000004C43FF8300000000000003F3
+t1279524739
+s1011
+i<UIKit/UIKit.h>
+i"WebServiceProcessor.h"
+i"Notification.h"
+i"User.h"
+i"NotificationXMLParser.h"
+
+N/Users/Madhura/Documents/CarPool/Classes/NotifyViewController.m
+c000000004C44A8DC0000000000001B35
+t1279568092
+s6965
+i"NotifyViewController.h"
+
+N/Users/Madhura/Documents/CarPool/Classes/OfferRequest.h
+c000000004C438C7200000000000002C9
+t1279495282
+s713
+i<Foundation/Foundation.h>
+
+N/Users/Madhura/Documents/CarPool/Classes/OfferRequest.m
+c000000004C438C6900000000000003E4
+t1279495273
+s996
+i"OfferRequest.h"
+
+N/Users/Madhura/Documents/CarPool/Classes/OfferRequestXMLParser.h
+c000000004C435C8D00000000000002EB
+t1279483021
+s747
+i<Foundation/Foundation.h>
+i"OfferRequest.h"
+
+N/Users/Madhura/Documents/CarPool/Classes/OfferRequestXMLParser.m
+c000000004C437EF10000000000000D55
+t1279491825
+s3413
+i"OfferRequestXMLParser.h"
+
+N/Users/Madhura/Documents/CarPool/Classes/RegViewController.h
+c000000004C43BE7000000000000003EB
+t1279508080
+s1003
+i<UIKit/UIKit.h>
+i"CarPoolViewController.h"
+i"FormViewController.h"
+i"NotifyViewController.h"
+i"SearchViewController.h"
+i"CommViewController.h"
+i"WebServiceProcessor.h"
+i"User.h"
+
+N/Users/Madhura/Documents/CarPool/Classes/RegViewController.m
+c000000004C4412340000000000002BF3
+t1279529524
+s11251
+i"RegViewController.h"
+
+N/Users/Madhura/Documents/CarPool/Classes/Register.xib
+c000000004C423566000000000000C210
+t1279407462
+s49680
+
+N/Users/Madhura/Documents/CarPool/Classes/Reply.xib
+c000000004C44198D0000000000006A6D
+t1279531405
+s27245
+
+N/Users/Madhura/Documents/CarPool/Classes/SearchViewController.h
+c000000004C43895A0000000000000484
+t1279494490
+s1156
+i<UIKit/UIKit.h>
+i"WebServiceProcessor.h"
+i"OfferRequestXMLParser.h"
+i"ReplyViewController.h"
+
+N/Users/Madhura/Documents/CarPool/Classes/SearchViewController.m
+c000000004C440EE200000000000024EB
+t1279528674
+s9451
+i"SearchViewController.h"
+
+N/Users/Madhura/Documents/CarPool/Classes/User.h
+c000000004C424CD40000000000000218
+t1279413460
+s536
+i<Foundation/Foundation.h>
+
+N/Users/Madhura/Documents/CarPool/Classes/User.m
+c000000004C424D470000000000000348
+t1279413575
+s840
+i"User.h"
+
+N/Users/Madhura/Documents/CarPool/Classes/UserXMLParser.h
+c000000004C42F38900000000000002C3
+t1279456137
+s707
+i<Foundation/Foundation.h>
+i"User.h"
+
+N/Users/Madhura/Documents/CarPool/Classes/UserXMLParser.m
+c000000004C435FEA0000000000000BF7
+t1279483882
+s3063
+i"UserXMLParser.h"
+
+N/Users/Madhura/Documents/CarPool/Classes/WebServiceProcessor.h
+c000000004C41E72D00000000000002A1
+t1279387437
+s673
+i<Foundation/Foundation.h>
+
+N/Users/Madhura/Documents/CarPool/Classes/WebServiceProcessor.m
+c000000004C41E7BD0000000000000DFB
+t1279387581
+s3579
+i"WebServiceProcessor.h"
+
+N/Users/Madhura/Documents/CarPool/Classes/_44013857_glo_sun_tewkesbury_cars.jpg
+c000000004DFEDC070000000000008483
+t1308548103
+s33923
+
+N/Users/Madhura/Documents/CarPool/Classes/black_car.png
+c000000004C3888C60000000000000EFD
+t1278773446
+s3837
+
+N/Users/Madhura/Documents/CarPool/CommViewController.h
+c000000004C43ED4D0000000000000279
+t1279520077
+s633
+i<UIKit/UIKit.h>
+i"CreateComViewController.h"
+i"JoinComViewController.h"
+i"InviteViewController.h"
+i"WebServiceProcessor.h"
+
+N/Users/Madhura/Documents/CarPool/CommViewController.m
+c000000004C33DD4E0000000000000607
+t1278467406
+s1543
+i"CommViewController.h"
+
+N/Users/Madhura/Documents/CarPool/Community.xib
+c000000004C3A5068000000000000586F
+t1278890088
+s22639
+
+N/Users/Madhura/Documents/CarPool/CreateComViewController.h
+c000000004C43EA1D0000000000000381
+t1279519261
+s897
+i<UIKit/UIKit.h>
+i"Community.h"
+i"User.h"
+i"WebServiceProcessor.h"
+i"Community.h"
+
+N/Users/Madhura/Documents/CarPool/CreateComViewController.m
+c000000004C39E5600000000000000617
+t1278862688
+s1559
+i"CreateComViewController.h"
+
+N/Users/Madhura/Documents/CarPool/CreateComm.xib
+c000000004C424653000000000000A60A
+t1279411795
+s42506
+
+N/Users/Madhura/Documents/CarPool/FormView.xib
+c000000004C33D648000000000000630F
+t1278465608
+s25359
+
+N/Users/Madhura/Documents/CarPool/InviteFriends.xib
+c000000004C438A860000000000005B5F
+t1279494790
+s23391
+
+N/Users/Madhura/Documents/CarPool/JoinComm.xib
+c000000004C39E6050000000000005066
+t1278862853
+s20582
+
+N/Users/Madhura/Documents/CarPool/LoginView.xib
+c000000004DFEE10600000000000089B6
+t1308549382
+s35254
+
+N/Users/Madhura/Documents/CarPool/MainWindow.xib
+c000000004C34230D0000000000004F97
+t1278485261
+s20375
+
+N/Users/Madhura/Documents/CarPool/Notification.xib
+c000000004C43F30E0000000000004817
+t1279521550
+s18455
+
+N/Users/Madhura/Documents/CarPool/ReplyViewController.h
+c000000004C44126100000000000002CD
+t1279529569
+s717
+i<UIKit/UIKit.h>
+i"OfferRequest.h"
+i"User.h"
+i"WebServiceProcessor.h"
+
+N/Users/Madhura/Documents/CarPool/ReplyViewController.m
+c000000004C43873E000000000000060B
+t1279493950
+s1547
+i"ReplyViewController.h"
+
+N/Users/Madhura/Documents/CarPool/SearchView.xib
+c000000004C434E890000000000005708
+t1279479433
+s22280
+
+N/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/CarPool.LinkFileList
+c000000004C43FEF80000000000000A0A
+t1279524600
+s2570
+
+N/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/CarPool.o
+t2
+s0
+
+N/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/CarPoolAppDelegate.o
+t1279533786
+s50992
+
+N/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/CarPoolTabController.o
+t2
+s0
+
+N/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/CarPoolViewController.o
+t1279533786
+s70764
+
+N/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/CommViewController.o
+t1279533786
+s48576
+
+N/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/Community.o
+t1279481668
+s14928
+
+N/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/CreateComViewController.o
+t1279529703
+s71620
+
+N/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/FormViewController.o
+t1279529702
+s70036
+
+N/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/InviteViewController.o
+t1279534293
+s65656
+
+N/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/JoinComViewController.o
+t1279522439
+s35616
+
+N/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/Notification.o
+t1279524600
+s10636
+
+N/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/NotificationXMLParser.o
+t1279525958
+s20752
+
+N/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/NotifyViewController.o
+t1279568094
+s70468
+
+N/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/OfferRequest.o
+t1279496125
+s17524
+
+N/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/OfferRequestXMLParser.o
+t1279496125
+s22100
+
+N/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/RegViewController.o
+t1279533786
+s77172
+
+N/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/ReplyViewController.o
+t1279534915
+s72280
+
+N/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/SearchViewController.o
+t1279529702
+s79856
+
+N/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/User.o
+t1279459551
+s14424
+
+N/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/UserXMLParser.o
+t1279483885
+s20912
+
+N/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/WebServiceProcessor.o
+t1279459551
+s51648
+
+N/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/main.o
+t1279459550
+s6292
+
+N/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app
+t1308549390
+s714
+
+N/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app.dSYM
+t1279568094
+s102
+
+N/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/06-magnifying-glass.png
+t1279459548
+s388
+
+N/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/112-group.png
+t1279459548
+s467
+
+N/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/18-envelope.png
+t1279459548
+s248
+
+N/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/47-fuel.png
+t1279459548
+s403
+
+N/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/CarPool
+t1279568094
+s170996
+
+N/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/CarPoolViewController.nib
+t2
+s0
+
+N/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/Community.nib
+t1279459548
+s1818
+
+N/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/CreateComm.nib
+t1279459548
+s3710
+
+N/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/FormView.nib
+t1279459548
+s4270
+
+N/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/Info.plist
+t1279459547
+s591
+
+N/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/InviteFriends.nib
+t1279496125
+s2320
+
+N/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/JoinComm.nib
+t1279459549
+s1876
+
+N/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/LoginView.nib
+t1308549390
+s3409
+
+N/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/MainWindow.nib
+t1278485265
+s1108
+
+N/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/Notification.nib
+t1279521848
+s1154
+
+N/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/PkgInfo
+t1279459547
+s8
+
+N/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/Register.nib
+t1279459549
+s4573
+
+N/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/Reply.nib
+t1279531411
+s2453
+
+N/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/SearchView.nib
+t1279481199
+s1636
+
+N/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/_44013857_glo_sun_tewkesbury_cars.jpg
+t1308549251
+s33923
+
+N/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/black_car.png
+t1279459548
+s3837
+
+N/Users/Madhura/Documents/CarPool/main.m
+c000000004C32B2180000000000000156
+t1278390808
+s342
+i<UIKit/UIKit.h>
+
+N/var/folders/1a/1auQ+tVAEzKi1NeT9Z7pVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarPool_Prefix-ahxpykwtnthdvteyyzwaseykeqhm/CarPool_Prefix.pch.gch
+t1279459550
+s15232016
+
+N/var/folders/1a/1auQ+tVAEzKi1NeT9Z7pVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarPool_Prefix-cmvuqmfaigxnbsgjbctuaqjikvbj/CarPool_Prefix.pch.gch
+t1278553794
+s13825936
+
+NCarPool-Info.plist
+c000000004C32B218000000000000038D
+t1278390808
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies330242190#330242190#0(0"0(0#1#0"8612274528#0"0#
+
+CCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/CarPool.o /Users/Madhura/Documents/CarPool/Classes/CarPool.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/CarPoolAppDelegate.o /Users/Madhura/Documents/CarPool/Classes/CarPoolAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s301226586.450786
+e301226586.602701
+r1
+xCompileC
+xbuild/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/CarPoolAppDelegate.o
+x/Users/Madhura/Documents/CarPool/Classes/CarPoolAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/Madhura/Documents/CarPool/Classes/CarPoolAppDelegate.m301226586#301226586#0(0"0(0#0#61"/Users/Madhura/Documents/CarPool/Classes/CarPoolAppDelegate.m8637060960#1871"    cd /Users/Madhura/Documents/CarPool    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-generated-files.hmap -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-own-target-headers.hmap -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-all-target-headers.hmap -iquote /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-project-headers.hmap -F/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator -I/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/include -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/DerivedSources/i386 -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/DerivedSources -include /var/folders/1a/1auQ+tVAEzKi1NeT9Z7pVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarPool_Prefix-ahxpykwtnthdvteyyzwaseykeqhm/CarPool_Prefix.pch -c /Users/Madhura/Documents/CarPool/Classes/CarPoolAppDelegate.m -o /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/CarPoolAppDelegate.o0#
+
+CCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/CarPoolTabController.o /Users/Madhura/Documents/CarPool/Classes/CarPoolTabController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/CarPoolViewController.o /Users/Madhura/Documents/CarPool/Classes/CarPoolViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s301226586.452834
+e301226586.677963
+r1
+xCompileC
+xbuild/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/CarPoolViewController.o
+x/Users/Madhura/Documents/CarPool/Classes/CarPoolViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Madhura/Documents/CarPool/Classes/CarPoolViewController.m: In function '-[CarPoolViewController authenticate]':
+o/Users/Madhura/Documents/CarPool/Classes/CarPoolViewController.m:137: warning: control reaches end of non-void function
+lSLF07#2@72"Compile /Users/Madhura/Documents/CarPool/Classes/CarPoolViewController.m301226586#301226586#0(239"/Users/Madhura/Documents/CarPool/Classes/CarPoolViewController.m: In function '-[CarPoolViewController authenticate]':/Users/Madhura/Documents/CarPool/Classes/CarPoolViewController.m:137: warning: control reaches end of non-void function1(22@40"Control reaches end of non-void function301226586#119#120#0(6@64"/Users/Madhura/Documents/CarPool/Classes/CarPoolViewController.m301222528#137#0#137#0#40"control reaches end of non-void function0(0#0#64"/Users/Madhura/Documents/CarPool/Classes/CarPoolViewController.m8636574624#1877"    cd /Users/Madhura/Documents/CarPool    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-generated-files.hmap -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-own-target-headers.hmap -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-all-target-headers.hmap -iquote /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-project-headers.hmap -F/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator -I/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/include -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/DerivedSources/i386 -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/DerivedSources -include /var/folders/1a/1auQ+tVAEzKi1NeT9Z7pVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarPool_Prefix-ahxpykwtnthdvteyyzwaseykeqhm/CarPool_Prefix.pch -c /Users/Madhura/Documents/CarPool/Classes/CarPoolViewController.m -o /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/CarPoolViewController.o0#
+
+CCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/CommViewController.o /Users/Madhura/Documents/CarPool/Classes/../CommViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s301226586.603028
+e301226586.812418
+r1
+xCompileC
+xbuild/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/CommViewController.o
+x/Users/Madhura/Documents/CarPool/Classes/../CommViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/Madhura/Documents/CarPool/Classes/../CommViewController.m301226586#301226586#0(0"0(0#0#64"/Users/Madhura/Documents/CarPool/Classes/../CommViewController.m8635489344#1874"    cd /Users/Madhura/Documents/CarPool    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-generated-files.hmap -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-own-target-headers.hmap -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-all-target-headers.hmap -iquote /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-project-headers.hmap -F/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator -I/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/include -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/DerivedSources/i386 -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/DerivedSources -include /var/folders/1a/1auQ+tVAEzKi1NeT9Z7pVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarPool_Prefix-ahxpykwtnthdvteyyzwaseykeqhm/CarPool_Prefix.pch -c /Users/Madhura/Documents/CarPool/Classes/../CommViewController.m -o /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/CommViewController.o0#
+
+CCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/CommViewController.o /Users/Madhura/Documents/CarPool/CommViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/Community.o /Users/Madhura/Documents/CarPool/Classes/Community.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s301174468.563836
+e301174468.631875
+r1
+xCompileC
+xbuild/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/Community.o
+x/Users/Madhura/Documents/CarPool/Classes/Community.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/Madhura/Documents/CarPool/Classes/Community.m301174468#301174468#0(0"0(0#0#52"/Users/Madhura/Documents/CarPool/Classes/Community.m8615311328#1853"    cd /Users/Madhura/Documents/CarPool    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-generated-files.hmap -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-own-target-headers.hmap -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-all-target-headers.hmap -iquote /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-project-headers.hmap -F/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator -I/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/include -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/DerivedSources/i386 -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/DerivedSources -include /var/folders/1a/1auQ+tVAEzKi1NeT9Z7pVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarPool_Prefix-ahxpykwtnthdvteyyzwaseykeqhm/CarPool_Prefix.pch -c /Users/Madhura/Documents/CarPool/Classes/Community.m -o /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/Community.o0#
+
+CCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/CreateComViewController.o /Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s301222502.884756
+e301222503.021765
+r1
+xCompileC
+xbuild/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/CreateComViewController.o
+x/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m: In function '-[CreateComViewController createAction:]':
+o/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:45: warning: local declaration of 'commObj' hides instance variable
+o/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:46: warning: local declaration of 'commObj' hides instance variable
+o/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:47: warning: local declaration of 'commObj' hides instance variable
+o/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:48: warning: local declaration of 'commObj' hides instance variable
+o/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:49: warning: local declaration of 'commObj' hides instance variable
+o/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:51: warning: local declaration of 'commObj' hides instance variable
+o/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:51: warning: local declaration of 'userObj' hides instance variable
+o/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:62: warning: local declaration of 'commObj' hides instance variable
+o/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:62: warning: local declaration of 'commObj' hides instance variable
+o/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:62: warning: local declaration of 'commObj' hides instance variable
+o/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:62: warning: local declaration of 'commObj' hides instance variable
+o/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:62: warning: local declaration of 'commObj' hides instance variable
+o/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:62: warning: local declaration of 'commObj' hides instance variable
+o/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:67: warning: local declaration of 'commObj' hides instance variable
+o/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m: In function '-[CreateComViewController createSuccess]':
+o/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:99: warning: local declaration of 'commObj' hides instance variable
+o/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:100: warning: local declaration of 'commObj' hides instance variable
+o/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:101: warning: local declaration of 'commObj' hides instance variable
+o/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:102: warning: local declaration of 'commObj' hides instance variable
+o/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:103: warning: local declaration of 'commObj' hides instance variable
+o/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:105: warning: local declaration of 'commObj' hides instance variable
+o/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:105: warning: local declaration of 'userObj' hides instance variable
+o/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:116: warning: local declaration of 'commObj' hides instance variable
+o/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:116: warning: local declaration of 'commObj' hides instance variable
+lSLF07#2@77"Compile /Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m301222502#301222503#0(3436"/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m: In function '-[CreateComViewController createAction:]':/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:45: warning: local declaration of 'commObj' hides instance variable/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:46: warning: local declaration of 'commObj' hides instance variable/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:47: warning: local declaration of 'commObj' hides instance variable/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:48: warning: local declaration of 'commObj' hides instance variable/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:49: warning: local declaration of 'commObj' hides instance variable/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:51: warning: local declaration of 'commObj' hides instance variable/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:51: warning: local declaration of 'userObj' hides instance variable/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:62: warning: local declaration of 'commObj' hides instance variable/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:62: warning: local declaration of 'commObj' hides instance variable/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:62: warning: local declaration of 'commObj' hides instance variable/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:62: warning: local declaration of 'commObj' hides instance variable/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:62: warning: local declaration of 'commObj' hides instance variable/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:62: warning: local declaration of 'commObj' hides instance variable/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:67: warning: local declaration of 'commObj' hides instance variable/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m: In function '-[CreateComViewController createSuccess]':/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:99: warning: local declaration of 'commObj' hides instance variable/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:100: warning: local declaration of 'commObj' hides instance variable/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:101: warning: local declaration of 'commObj' hides instance variable/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:102: warning: local declaration of 'commObj' hides instance variable/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:103: warning: local declaration of 'commObj' hides instance variable/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:105: warning: local declaration of 'commObj' hides instance variable/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:105: warning: local declaration of 'userObj' hides instance variable/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:116: warning: local declaration of 'commObj' hides instance variable/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m:116: warning: local declaration of 'commObj' hides instance variable23(22@54"Local declaration of 'commObj' hides instance variable301222502#127#138#0(6@69"/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m301222292#45#0#45#0#0"0(22@54"Local declaration of 'commObj' hides instance variable301222502#265#138#0(6@69"/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m301222292#46#0#46#0#0"0(22@54"Local declaration of 'commObj' hides instance variable301222502#403#138#0(6@69"/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m301222292#47#0#47#0#0"0(22@54"Local declaration of 'commObj' hides instance variable301222502#541#138#0(6@69"/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m301222292#48#0#48#0#0"0(22@54"Local declaration of 'commObj' hides instance variable301222502#679#138#0(6@69"/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m301222292#49#0#49#0#0"0(22@54"Local declaration of 'commObj' hides instance variable301222502#817#138#0(6@69"/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m301222292#51#0#51#0#0"0(22@54"Local declaration of 'userObj' hides instance variable301222502#955#138#0(6@69"/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m301222292#51#0#51#0#0"0(22@54"Local declaration of 'commObj' hides instance variable301222502#1093#138#0(6@69"/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m301222292#62#0#62#0#0"0(22@54"Local declaration of 'commObj' hides instance variable301222502#1231#138#0(6@69"/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m301222292#62#0#62#0#0"0(22@54"Local declaration of 'commObj' hides instance variable301222502#1369#138#0(6@69"/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m301222292#62#0#62#0#0"0(22@54"Local declaration of 'commObj' hides instance variable301222502#1507#138#0(6@69"/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m301222292#62#0#62#0#0"0(22@54"Local declaration of 'commObj' hides instance variable301222502#1645#138#0(6@69"/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m301222292#62#0#62#0#0"0(22@54"Local declaration of 'commObj' hides instance variable301222502#1783#138#0(6@69"/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m301222292#62#0#62#0#0"0(22@54"Local declaration of 'commObj' hides instance variable301222502#1921#138#0(6@69"/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m301222292#67#0#67#0#0"0(22@54"Local declaration of 'commObj' hides instance variable301222502#2186#138#0(6@69"/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m301222292#99#0#99#0#0"0(22@54"Local declaration of 'commObj' hides instance variable301222502#2324#139#0(6@69"/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m301222292#100#0#100#0#0"0(22@54"Local declaration of 'commObj' hides instance variable301222502#2463#139#0(6@69"/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m301222292#101#0#101#0#0"0(22@54"Local declaration of 'commObj' hides instance variable301222502#2602#139#0(6@69"/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m301222292#102#0#102#0#0"0(22@54"Local declaration of 'commObj' hides instance variable301222502#2741#139#0(6@69"/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m301222292#103#0#103#0#0"0(22@54"Local declaration of 'commObj' hides instance variable301222502#2880#139#0(6@69"/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m301222292#105#0#105#0#0"0(22@54"Local declaration of 'userObj' hides instance variable301222502#3019#139#0(6@69"/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m301222292#105#0#105#0#0"0(22@54"Local declaration of 'commObj' hides instance variable301222502#3158#139#0(6@69"/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m301222292#116#0#116#0#0"0(22@54"Local declaration of 'commObj' hides instance variable301222502#3297#139#0(6@69"/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m301222292#116#0#116#0#0"0(0#0#69"/Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m8639729792#1884"    cd /Users/Madhura/Documents/CarPool    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-generated-files.hmap -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-own-target-headers.hmap -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-all-target-headers.hmap -iquote /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-project-headers.hmap -F/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator -I/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/include -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/DerivedSources/i386 -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/DerivedSources -include /var/folders/1a/1auQ+tVAEzKi1NeT9Z7pVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarPool_Prefix-ahxpykwtnthdvteyyzwaseykeqhm/CarPool_Prefix.pch -c /Users/Madhura/Documents/CarPool/Classes/../CreateComViewController.m -o /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/CreateComViewController.o0#
+
+CCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/CreateComViewController.o /Users/Madhura/Documents/CarPool/CreateComViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/FormViewController.o /Users/Madhura/Documents/CarPool/Classes/FormViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s301222502.635319
+e301222502.788694
+r1
+xCompileC
+xbuild/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/FormViewController.o
+x/Users/Madhura/Documents/CarPool/Classes/FormViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/Madhura/Documents/CarPool/Classes/FormViewController.m301222502#301222502#0(0"0(0#0#61"/Users/Madhura/Documents/CarPool/Classes/FormViewController.m8636509248#1871"    cd /Users/Madhura/Documents/CarPool    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-generated-files.hmap -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-own-target-headers.hmap -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-all-target-headers.hmap -iquote /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-project-headers.hmap -F/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator -I/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/include -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/DerivedSources/i386 -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/DerivedSources -include /var/folders/1a/1auQ+tVAEzKi1NeT9Z7pVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarPool_Prefix-ahxpykwtnthdvteyyzwaseykeqhm/CarPool_Prefix.pch -c /Users/Madhura/Documents/CarPool/Classes/FormViewController.m -o /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/FormViewController.o0#
+
+CCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/InviteViewController.o /Users/Madhura/Documents/CarPool/Classes/InviteViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s301227093.793174
+e301227093.888129
+r1
+xCompileC
+xbuild/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/InviteViewController.o
+x/Users/Madhura/Documents/CarPool/Classes/InviteViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Madhura/Documents/CarPool/Classes/InviteViewController.m:239: warning: property 'emailText' requires method '-emailText' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Madhura/Documents/CarPool/Classes/InviteViewController.m:239: warning: property 'emailText' requires the method 'setEmailText:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@71"Compile /Users/Madhura/Documents/CarPool/Classes/InviteViewController.m301227093#301227093#0(417"/Users/Madhura/Documents/CarPool/Classes/InviteViewController.m:239: warning: property 'emailText' requires method '-emailText' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Madhura/Documents/CarPool/Classes/InviteViewController.m:239: warning: property 'emailText' requires the method 'setEmailText:' to be defined - use @synthesize, @dynamic or provide a method implementation2(22@126"Property 'emailText' requires method '-emailText' to be defined - use @synthesize, @dynamic or provide a method implementation301227093#0#205#0(6@63"/Users/Madhura/Documents/CarPool/Classes/InviteViewController.m301227081#239#0#239#0#0"0(22@133"Property 'emailText' requires the method 'setEmailText:' to be defined - use @synthesize, @dynamic or provide a method implementation301227093#205#212#0(6@63"/Users/Madhura/Documents/CarPool/Classes/InviteViewController.m301227081#239#0#239#0#0"0(0#0#63"/Users/Madhura/Documents/CarPool/Classes/InviteViewController.m8635010432#1875"    cd /Users/Madhura/Documents/CarPool    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-generated-files.hmap -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-own-target-headers.hmap -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-all-target-headers.hmap -iquote /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-project-headers.hmap -F/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator -I/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/include -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/DerivedSources/i386 -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/DerivedSources -include /var/folders/1a/1auQ+tVAEzKi1NeT9Z7pVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarPool_Prefix-ahxpykwtnthdvteyyzwaseykeqhm/CarPool_Prefix.pch -c /Users/Madhura/Documents/CarPool/Classes/InviteViewController.m -o /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/InviteViewController.o0#
+
+CCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/JoinComViewController.o /Users/Madhura/Documents/CarPool/Classes/JoinComViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s301215239.691548
+e301215239.766365
+r1
+xCompileC
+xbuild/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/JoinComViewController.o
+x/Users/Madhura/Documents/CarPool/Classes/JoinComViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/Madhura/Documents/CarPool/Classes/JoinComViewController.m301215239#301215239#0(0"0(0#0#64"/Users/Madhura/Documents/CarPool/Classes/JoinComViewController.m8640001184#1877"    cd /Users/Madhura/Documents/CarPool    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-generated-files.hmap -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-own-target-headers.hmap -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-all-target-headers.hmap -iquote /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-project-headers.hmap -F/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator -I/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/include -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/DerivedSources/i386 -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/DerivedSources -include /var/folders/1a/1auQ+tVAEzKi1NeT9Z7pVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarPool_Prefix-ahxpykwtnthdvteyyzwaseykeqhm/CarPool_Prefix.pch -c /Users/Madhura/Documents/CarPool/Classes/JoinComViewController.m -o /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/JoinComViewController.o0#
+
+CCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/Notification.o /Users/Madhura/Documents/CarPool/Classes/Notification.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s301217400.331619
+e301217400.396882
+r1
+xCompileC
+xbuild/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/Notification.o
+x/Users/Madhura/Documents/CarPool/Classes/Notification.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/Madhura/Documents/CarPool/Classes/Notification.m301217400#301217400#0(0"0(0#0#55"/Users/Madhura/Documents/CarPool/Classes/Notification.m8628791680#1859"    cd /Users/Madhura/Documents/CarPool    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-generated-files.hmap -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-own-target-headers.hmap -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-all-target-headers.hmap -iquote /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-project-headers.hmap -F/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator -I/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/include -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/DerivedSources/i386 -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/DerivedSources -include /var/folders/1a/1auQ+tVAEzKi1NeT9Z7pVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarPool_Prefix-ahxpykwtnthdvteyyzwaseykeqhm/CarPool_Prefix.pch -c /Users/Madhura/Documents/CarPool/Classes/Notification.m -o /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/Notification.o0#
+
+CCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/NotificationXMLParser.o /Users/Madhura/Documents/CarPool/Classes/NotificationXMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s301218758.410590
+e301218758.520499
+r1
+xCompileC
+xbuild/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/NotificationXMLParser.o
+x/Users/Madhura/Documents/CarPool/Classes/NotificationXMLParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Madhura/Documents/CarPool/Classes/NotificationXMLParser.m: In function '-[NotificationXMLParser initWithData:]':
+o/Users/Madhura/Documents/CarPool/Classes/NotificationXMLParser.m:26: warning: class 'NotificationXMLParser' does not implement the 'NSXMLParserDelegate' protocol
+lSLF07#2@72"Compile /Users/Madhura/Documents/CarPool/Classes/NotificationXMLParser.m301218758#301218758#0(282"/Users/Madhura/Documents/CarPool/Classes/NotificationXMLParser.m: In function '-[NotificationXMLParser initWithData:]':/Users/Madhura/Documents/CarPool/Classes/NotificationXMLParser.m:26: warning: class 'NotificationXMLParser' does not implement the 'NSXMLParserDelegate' protocol1(22@83"Class 'NotificationXMLParser' does not implement the 'NSXMLParserDelegate' protocol301218758#120#162#0(6@64"/Users/Madhura/Documents/CarPool/Classes/NotificationXMLParser.m301218750#26#0#26#0#45"class '*' does not implement the '*' protocol0(0#0#64"/Users/Madhura/Documents/CarPool/Classes/NotificationXMLParser.m8629621216#1877"    cd /Users/Madhura/Documents/CarPool    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-generated-files.hmap -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-own-target-headers.hmap -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-all-target-headers.hmap -iquote /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-project-headers.hmap -F/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator -I/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/include -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/DerivedSources/i386 -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/DerivedSources -include /var/folders/1a/1auQ+tVAEzKi1NeT9Z7pVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarPool_Prefix-ahxpykwtnthdvteyyzwaseykeqhm/CarPool_Prefix.pch -c /Users/Madhura/Documents/CarPool/Classes/NotificationXMLParser.m -o /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/NotificationXMLParser.o0#
+
+CCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/NotifyViewController.o /Users/Madhura/Documents/CarPool/Classes/NotifyViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s301260894.570183
+e301260894.669337
+r1
+xCompileC
+xbuild/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/NotifyViewController.o
+x/Users/Madhura/Documents/CarPool/Classes/NotifyViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/Madhura/Documents/CarPool/Classes/NotifyViewController.m301260894#301260894#0(0"0(0#0#63"/Users/Madhura/Documents/CarPool/Classes/NotifyViewController.m8630073120#1875"    cd /Users/Madhura/Documents/CarPool    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-generated-files.hmap -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-own-target-headers.hmap -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-all-target-headers.hmap -iquote /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-project-headers.hmap -F/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator -I/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/include -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/DerivedSources/i386 -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/DerivedSources -include /var/folders/1a/1auQ+tVAEzKi1NeT9Z7pVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarPool_Prefix-ahxpykwtnthdvteyyzwaseykeqhm/CarPool_Prefix.pch -c /Users/Madhura/Documents/CarPool/Classes/NotifyViewController.m -o /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/NotifyViewController.o0#
+
+CCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/OfferRequest.o /Users/Madhura/Documents/CarPool/Classes/OfferRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s301188925.561579
+e301188925.638235
+r1
+xCompileC
+xbuild/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/OfferRequest.o
+x/Users/Madhura/Documents/CarPool/Classes/OfferRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/Madhura/Documents/CarPool/Classes/OfferRequest.m301188925#301188925#0(0"0(0#0#55"/Users/Madhura/Documents/CarPool/Classes/OfferRequest.m8631464448#1859"    cd /Users/Madhura/Documents/CarPool    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-generated-files.hmap -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-own-target-headers.hmap -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-all-target-headers.hmap -iquote /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-project-headers.hmap -F/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator -I/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/include -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/DerivedSources/i386 -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/DerivedSources -include /var/folders/1a/1auQ+tVAEzKi1NeT9Z7pVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarPool_Prefix-ahxpykwtnthdvteyyzwaseykeqhm/CarPool_Prefix.pch -c /Users/Madhura/Documents/CarPool/Classes/OfferRequest.m -o /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/OfferRequest.o0#
+
+CCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/OfferRequestXMLParser.o /Users/Madhura/Documents/CarPool/Classes/OfferRequestXMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s301188925.638596
+e301188925.745305
+r1
+xCompileC
+xbuild/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/OfferRequestXMLParser.o
+x/Users/Madhura/Documents/CarPool/Classes/OfferRequestXMLParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Madhura/Documents/CarPool/Classes/OfferRequestXMLParser.m: In function '-[OfferRequestXMLParser initWithData:]':
+o/Users/Madhura/Documents/CarPool/Classes/OfferRequestXMLParser.m:26: warning: class 'OfferRequestXMLParser' does not implement the 'NSXMLParserDelegate' protocol
+lSLF07#2@72"Compile /Users/Madhura/Documents/CarPool/Classes/OfferRequestXMLParser.m301188925#301188925#0(282"/Users/Madhura/Documents/CarPool/Classes/OfferRequestXMLParser.m: In function '-[OfferRequestXMLParser initWithData:]':/Users/Madhura/Documents/CarPool/Classes/OfferRequestXMLParser.m:26: warning: class 'OfferRequestXMLParser' does not implement the 'NSXMLParserDelegate' protocol1(22@83"Class 'OfferRequestXMLParser' does not implement the 'NSXMLParserDelegate' protocol301188925#120#162#0(6@64"/Users/Madhura/Documents/CarPool/Classes/OfferRequestXMLParser.m301184625#26#0#26#0#45"class '*' does not implement the '*' protocol0(0#0#64"/Users/Madhura/Documents/CarPool/Classes/OfferRequestXMLParser.m8630383584#1877"    cd /Users/Madhura/Documents/CarPool    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-generated-files.hmap -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-own-target-headers.hmap -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-all-target-headers.hmap -iquote /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-project-headers.hmap -F/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator -I/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/include -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/DerivedSources/i386 -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/DerivedSources -include /var/folders/1a/1auQ+tVAEzKi1NeT9Z7pVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarPool_Prefix-ahxpykwtnthdvteyyzwaseykeqhm/CarPool_Prefix.pch -c /Users/Madhura/Documents/CarPool/Classes/OfferRequestXMLParser.m -o /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/OfferRequestXMLParser.o0#
+
+CCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/RegViewController.o /Users/Madhura/Documents/CarPool/Classes/RegViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s301226586.756470
+e301226586.903799
+r1
+xCompileC
+xbuild/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/RegViewController.o
+x/Users/Madhura/Documents/CarPool/Classes/RegViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Madhura/Documents/CarPool/Classes/RegViewController.m: In function '-[RegViewController loginAction:]':
+o/Users/Madhura/Documents/CarPool/Classes/RegViewController.m:74: warning: local declaration of 'userObj' hides instance variable
+o/Users/Madhura/Documents/CarPool/Classes/RegViewController.m:74: warning: local declaration of 'userObj' hides instance variable
+o/Users/Madhura/Documents/CarPool/Classes/RegViewController.m:74: warning: local declaration of 'userObj' hides instance variable
+o/Users/Madhura/Documents/CarPool/Classes/RegViewController.m:74: warning: local declaration of 'userObj' hides instance variable
+o/Users/Madhura/Documents/CarPool/Classes/RegViewController.m:74: warning: local declaration of 'userObj' hides instance variable
+o/Users/Madhura/Documents/CarPool/Classes/RegViewController.m:74: warning: local declaration of 'userObj' hides instance variable
+o/Users/Madhura/Documents/CarPool/Classes/RegViewController.m: In function '-[RegViewController validateFields]':
+o/Users/Madhura/Documents/CarPool/Classes/RegViewController.m:159: warning: local declaration of 'userObj' hides instance variable
+o/Users/Madhura/Documents/CarPool/Classes/RegViewController.m:160: warning: local declaration of 'userObj' hides instance variable
+o/Users/Madhura/Documents/CarPool/Classes/RegViewController.m:161: warning: local declaration of 'userObj' hides instance variable
+o/Users/Madhura/Documents/CarPool/Classes/RegViewController.m:162: warning: local declaration of 'userObj' hides instance variable
+o/Users/Madhura/Documents/CarPool/Classes/RegViewController.m:163: warning: local declaration of 'userObj' hides instance variable
+o/Users/Madhura/Documents/CarPool/Classes/RegViewController.m:164: warning: local declaration of 'userObj' hides instance variable
+o/Users/Madhura/Documents/CarPool/Classes/RegViewController.m: In function '-[RegViewController loginSuccess]':
+o/Users/Madhura/Documents/CarPool/Classes/RegViewController.m:183: warning: local declaration of 'userObj' hides instance variable
+o/Users/Madhura/Documents/CarPool/Classes/RegViewController.m:184: warning: local declaration of 'userObj' hides instance variable
+o/Users/Madhura/Documents/CarPool/Classes/RegViewController.m:185: warning: local declaration of 'userObj' hides instance variable
+o/Users/Madhura/Documents/CarPool/Classes/RegViewController.m:186: warning: local declaration of 'userObj' hides instance variable
+o/Users/Madhura/Documents/CarPool/Classes/RegViewController.m:187: warning: local declaration of 'userObj' hides instance variable
+o/Users/Madhura/Documents/CarPool/Classes/RegViewController.m:188: warning: local declaration of 'userObj' hides instance variable
+lSLF07#2@68"Compile /Users/Madhura/Documents/CarPool/Classes/RegViewController.m301226586#301226586#0(2669"/Users/Madhura/Documents/CarPool/Classes/RegViewController.m: In function '-[RegViewController loginAction:]':/Users/Madhura/Documents/CarPool/Classes/RegViewController.m:74: warning: local declaration of 'userObj' hides instance variable/Users/Madhura/Documents/CarPool/Classes/RegViewController.m:74: warning: local declaration of 'userObj' hides instance variable/Users/Madhura/Documents/CarPool/Classes/RegViewController.m:74: warning: local declaration of 'userObj' hides instance variable/Users/Madhura/Documents/CarPool/Classes/RegViewController.m:74: warning: local declaration of 'userObj' hides instance variable/Users/Madhura/Documents/CarPool/Classes/RegViewController.m:74: warning: local declaration of 'userObj' hides instance variable/Users/Madhura/Documents/CarPool/Classes/RegViewController.m:74: warning: local declaration of 'userObj' hides instance variable/Users/Madhura/Documents/CarPool/Classes/RegViewController.m: In function '-[RegViewController validateFields]':/Users/Madhura/Documents/CarPool/Classes/RegViewController.m:159: warning: local declaration of 'userObj' hides instance variable/Users/Madhura/Documents/CarPool/Classes/RegViewController.m:160: warning: local declaration of 'userObj' hides instance variable/Users/Madhura/Documents/CarPool/Classes/RegViewController.m:161: warning: local declaration of 'userObj' hides instance variable/Users/Madhura/Documents/CarPool/Classes/RegViewController.m:162: warning: local declaration of 'userObj' hides instance variable/Users/Madhura/Documents/CarPool/Classes/RegViewController.m:163: warning: local declaration of 'userObj' hides instance variable/Users/Madhura/Documents/CarPool/Classes/RegViewController.m:164: warning: local declaration of 'userObj' hides instance variable/Users/Madhura/Documents/CarPool/Classes/RegViewController.m: In function '-[RegViewController loginSuccess]':/Users/Madhura/Documents/CarPool/Classes/RegViewController.m:183: warning: local declaration of 'userObj' hides instance variable/Users/Madhura/Documents/CarPool/Classes/RegViewController.m:184: warning: local declaration of 'userObj' hides instance variable/Users/Madhura/Documents/CarPool/Classes/RegViewController.m:185: warning: local declaration of 'userObj' hides instance variable/Users/Madhura/Documents/CarPool/Classes/RegViewController.m:186: warning: local declaration of 'userObj' hides instance variable/Users/Madhura/Documents/CarPool/Classes/RegViewController.m:187: warning: local declaration of 'userObj' hides instance variable/Users/Madhura/Documents/CarPool/Classes/RegViewController.m:188: warning: local declaration of 'userObj' hides instance variable18(22@54"Local declaration of 'userObj' hides instance variable301226586#111#129#0(6@60"/Users/Madhura/Documents/CarPool/Classes/RegViewController.m301222324#74#0#74#0#0"0(22@54"Local declaration of 'userObj' hides instance variable301226586#240#129#0(6@60"/Users/Madhura/Documents/CarPool/Classes/RegViewController.m301222324#74#0#74#0#0"0(22@54"Local declaration of 'userObj' hides instance variable301226586#369#129#0(6@60"/Users/Madhura/Documents/CarPool/Classes/RegViewController.m301222324#74#0#74#0#0"0(22@54"Local declaration of 'userObj' hides instance variable301226586#498#129#0(6@60"/Users/Madhura/Documents/CarPool/Classes/RegViewController.m301222324#74#0#74#0#0"0(22@54"Local declaration of 'userObj' hides instance variable301226586#627#129#0(6@60"/Users/Madhura/Documents/CarPool/Classes/RegViewController.m301222324#74#0#74#0#0"0(22@54"Local declaration of 'userObj' hides instance variable301226586#756#129#0(6@60"/Users/Madhura/Documents/CarPool/Classes/RegViewController.m301222324#74#0#74#0#0"0(22@54"Local declaration of 'userObj' hides instance variable301226586#998#130#0(6@60"/Users/Madhura/Documents/CarPool/Classes/RegViewController.m301222324#159#0#159#0#0"0(22@54"Local declaration of 'userObj' hides instance variable301226586#1128#130#0(6@60"/Users/Madhura/Documents/CarPool/Classes/RegViewController.m301222324#160#0#160#0#0"0(22@54"Local declaration of 'userObj' hides instance variable301226586#1258#130#0(6@60"/Users/Madhura/Documents/CarPool/Classes/RegViewController.m301222324#161#0#161#0#0"0(22@54"Local declaration of 'userObj' hides instance variable301226586#1388#130#0(6@60"/Users/Madhura/Documents/CarPool/Classes/RegViewController.m301222324#162#0#162#0#0"0(22@54"Local declaration of 'userObj' hides instance variable301226586#1518#130#0(6@60"/Users/Madhura/Documents/CarPool/Classes/RegViewController.m301222324#163#0#163#0#0"0(22@54"Local declaration of 'userObj' hides instance variable301226586#1648#130#0(6@60"/Users/Madhura/Documents/CarPool/Classes/RegViewController.m301222324#164#0#164#0#0"0(22@54"Local declaration of 'userObj' hides instance variable301226586#1889#130#0(6@60"/Users/Madhura/Documents/CarPool/Classes/RegViewController.m301222324#183#0#183#0#0"0(22@54"Local declaration of 'userObj' hides instance variable301226586#2019#130#0(6@60"/Users/Madhura/Documents/CarPool/Classes/RegViewController.m301222324#184#0#184#0#0"0(22@54"Local declaration of 'userObj' hides instance variable301226586#2149#130#0(6@60"/Users/Madhura/Documents/CarPool/Classes/RegViewController.m301222324#185#0#185#0#0"0(22@54"Local declaration of 'userObj' hides instance variable301226586#2279#130#0(6@60"/Users/Madhura/Documents/CarPool/Classes/RegViewController.m301222324#186#0#186#0#0"0(22@54"Local declaration of 'userObj' hides instance variable301226586#2409#130#0(6@60"/Users/Madhura/Documents/CarPool/Classes/RegViewController.m301222324#187#0#187#0#0"0(22@54"Local declaration of 'userObj' hides instance variable301226586#2539#130#0(6@60"/Users/Madhura/Documents/CarPool/Classes/RegViewController.m301222324#188#0#188#0#0"0(0#0#60"/Users/Madhura/Documents/CarPool/Classes/RegViewController.m8640260288#1869"    cd /Users/Madhura/Documents/CarPool    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-generated-files.hmap -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-own-target-headers.hmap -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-all-target-headers.hmap -iquote /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-project-headers.hmap -F/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator -I/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/include -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/DerivedSources/i386 -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/DerivedSources -include /var/folders/1a/1auQ+tVAEzKi1NeT9Z7pVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarPool_Prefix-ahxpykwtnthdvteyyzwaseykeqhm/CarPool_Prefix.pch -c /Users/Madhura/Documents/CarPool/Classes/RegViewController.m -o /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/RegViewController.o0#
+
+CCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/ReplyViewController.o /Users/Madhura/Documents/CarPool/Classes/../ReplyViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s301227715.116558
+e301227715.228718
+r1
+xCompileC
+xbuild/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/ReplyViewController.o
+x/Users/Madhura/Documents/CarPool/Classes/../ReplyViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Madhura/Documents/CarPool/Classes/../ReplyViewController.m: In function '-[ReplyViewController sendMessage:]':
+o/Users/Madhura/Documents/CarPool/Classes/../ReplyViewController.m:57: warning: format not a string literal and no format arguments
+o/Users/Madhura/Documents/CarPool/Classes/../ReplyViewController.m: In function '-[ReplyViewController getContentForCell:]':
+o/Users/Madhura/Documents/CarPool/Classes/../ReplyViewController.m:218: warning: unused variable 'min'
+o/Users/Madhura/Documents/CarPool/Classes/../ReplyViewController.m:217: warning: unused variable 'hour'
+lSLF07#2@73"Compile /Users/Madhura/Documents/CarPool/Classes/../ReplyViewController.m301227715#301227715#0(578"/Users/Madhura/Documents/CarPool/Classes/../ReplyViewController.m: In function '-[ReplyViewController sendMessage:]':/Users/Madhura/Documents/CarPool/Classes/../ReplyViewController.m:57: warning: format not a string literal and no format arguments/Users/Madhura/Documents/CarPool/Classes/../ReplyViewController.m: In function '-[ReplyViewController getContentForCell:]':/Users/Madhura/Documents/CarPool/Classes/../ReplyViewController.m:218: warning: unused variable 'min'/Users/Madhura/Documents/CarPool/Classes/../ReplyViewController.m:217: warning: unused variable 'hour'3(22@51"Format not a string literal and no format arguments301227715#118#131#0(6@65"/Users/Madhura/Documents/CarPool/Classes/../ReplyViewController.m301227713#57#0#57#0#51"format not a string literal and no format arguments0(22@21"Unused variable 'min'301227715#373#102#0(6@65"/Users/Madhura/Documents/CarPool/Classes/../ReplyViewController.m301227713#218#0#218#0#19"unused variable '*'0(22@22"Unused variable 'hour'301227715#475#103#0(6@65"/Users/Madhura/Documents/CarPool/Classes/../ReplyViewController.m301227713#217#0#217#0#19"unused variable '*'0(0#0#65"/Users/Madhura/Documents/CarPool/Classes/../ReplyViewController.m8630168768#1876"    cd /Users/Madhura/Documents/CarPool    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-generated-files.hmap -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-own-target-headers.hmap -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-all-target-headers.hmap -iquote /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-project-headers.hmap -F/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator -I/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/include -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/DerivedSources/i386 -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/DerivedSources -include /var/folders/1a/1auQ+tVAEzKi1NeT9Z7pVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarPool_Prefix-ahxpykwtnthdvteyyzwaseykeqhm/CarPool_Prefix.pch -c /Users/Madhura/Documents/CarPool/Classes/../ReplyViewController.m -o /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/ReplyViewController.o0#
+
+CCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/ReplyViewController.o /Users/Madhura/Documents/CarPool/ReplyViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/SearchViewController.o /Users/Madhura/Documents/CarPool/Classes/SearchViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s301222502.629712
+e301222502.814417
+r1
+xCompileC
+xbuild/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/SearchViewController.o
+x/Users/Madhura/Documents/CarPool/Classes/SearchViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Madhura/Documents/CarPool/Classes/SearchViewController.m: In function '-[SearchViewController tableView:didSelectRowAtIndexPath:]':
+o/Users/Madhura/Documents/CarPool/Classes/SearchViewController.m:250: warning: incompatible Objective-C types 'struct NSDate *', expected 'struct NSString *' when passing argument 1 of 'setDate:' from distinct Objective-C type
+lSLF07#2@71"Compile /Users/Madhura/Documents/CarPool/Classes/SearchViewController.m301222502#301222502#0(365"/Users/Madhura/Documents/CarPool/Classes/SearchViewController.m: In function '-[SearchViewController tableView:didSelectRowAtIndexPath:]':/Users/Madhura/Documents/CarPool/Classes/SearchViewController.m:250: warning: incompatible Objective-C types 'struct NSDate *', expected 'struct NSString *' when passing argument 1 of 'setDate:' from distinct Objective-C type1(22@147"Incompatible Objective-C types 'struct NSDate *', expected 'struct NSString *' when passing argument 1 of 'setDate:' from distinct Objective-C type301222502#139#226#0(6@63"/Users/Madhura/Documents/CarPool/Classes/SearchViewController.m301221474#250#0#250#0#0"0(0#0#63"/Users/Madhura/Documents/CarPool/Classes/SearchViewController.m8640396896#1875"    cd /Users/Madhura/Documents/CarPool    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-generated-files.hmap -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-own-target-headers.hmap -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-all-target-headers.hmap -iquote /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-project-headers.hmap -F/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator -I/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/include -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/DerivedSources/i386 -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/DerivedSources -include /var/folders/1a/1auQ+tVAEzKi1NeT9Z7pVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarPool_Prefix-ahxpykwtnthdvteyyzwaseykeqhm/CarPool_Prefix.pch -c /Users/Madhura/Documents/CarPool/Classes/SearchViewController.m -o /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/SearchViewController.o0#
+
+CCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/User.o /Users/Madhura/Documents/CarPool/Classes/User.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s301152351.443244
+e301152351.523878
+r1
+xCompileC
+xbuild/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/User.o
+x/Users/Madhura/Documents/CarPool/Classes/User.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/Madhura/Documents/CarPool/Classes/User.m301152351#301152351#0(0"0(0#0#47"/Users/Madhura/Documents/CarPool/Classes/User.m8629882656#1843"    cd /Users/Madhura/Documents/CarPool    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-generated-files.hmap -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-own-target-headers.hmap -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-all-target-headers.hmap -iquote /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-project-headers.hmap -F/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator -I/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/include -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/DerivedSources/i386 -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/DerivedSources -include /var/folders/1a/1auQ+tVAEzKi1NeT9Z7pVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarPool_Prefix-ahxpykwtnthdvteyyzwaseykeqhm/CarPool_Prefix.pch -c /Users/Madhura/Documents/CarPool/Classes/User.m -o /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/User.o0#
+
+CCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/UserXMLParser.o /Users/Madhura/Documents/CarPool/Classes/UserXMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s301176685.648000
+e301176685.770679
+r1
+xCompileC
+xbuild/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/UserXMLParser.o
+x/Users/Madhura/Documents/CarPool/Classes/UserXMLParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Madhura/Documents/CarPool/Classes/UserXMLParser.m: In function '-[UserXMLParser initWithData:]':
+o/Users/Madhura/Documents/CarPool/Classes/UserXMLParser.m:26: warning: class 'UserXMLParser' does not implement the 'NSXMLParserDelegate' protocol
+lSLF07#2@64"Compile /Users/Madhura/Documents/CarPool/Classes/UserXMLParser.m301176685#301176685#0(250"/Users/Madhura/Documents/CarPool/Classes/UserXMLParser.m: In function '-[UserXMLParser initWithData:]':/Users/Madhura/Documents/CarPool/Classes/UserXMLParser.m:26: warning: class 'UserXMLParser' does not implement the 'NSXMLParserDelegate' protocol1(22@75"Class 'UserXMLParser' does not implement the 'NSXMLParserDelegate' protocol301176685#104#146#0(6@56"/Users/Madhura/Documents/CarPool/Classes/UserXMLParser.m301176682#26#0#26#0#45"class '*' does not implement the '*' protocol0(0#0#56"/Users/Madhura/Documents/CarPool/Classes/UserXMLParser.m8603517376#1861"    cd /Users/Madhura/Documents/CarPool    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-generated-files.hmap -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-own-target-headers.hmap -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-all-target-headers.hmap -iquote /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-project-headers.hmap -F/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator -I/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/include -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/DerivedSources/i386 -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/DerivedSources -include /var/folders/1a/1auQ+tVAEzKi1NeT9Z7pVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarPool_Prefix-ahxpykwtnthdvteyyzwaseykeqhm/CarPool_Prefix.pch -c /Users/Madhura/Documents/CarPool/Classes/UserXMLParser.m -o /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/UserXMLParser.o0#
+
+CCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/WebServiceProcessor.o /Users/Madhura/Documents/CarPool/Classes/WebServiceProcessor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s301152351.231406
+e301152351.352034
+r1
+xCompileC
+xbuild/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/WebServiceProcessor.o
+x/Users/Madhura/Documents/CarPool/Classes/WebServiceProcessor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/Madhura/Documents/CarPool/Classes/WebServiceProcessor.m301152351#301152351#0(0"0(0#0#62"/Users/Madhura/Documents/CarPool/Classes/WebServiceProcessor.m8629114080#1873"    cd /Users/Madhura/Documents/CarPool    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-generated-files.hmap -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-own-target-headers.hmap -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-all-target-headers.hmap -iquote /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-project-headers.hmap -F/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator -I/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/include -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/DerivedSources/i386 -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/DerivedSources -include /var/folders/1a/1auQ+tVAEzKi1NeT9Z7pVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarPool_Prefix-ahxpykwtnthdvteyyzwaseykeqhm/CarPool_Prefix.pch -c /Users/Madhura/Documents/CarPool/Classes/WebServiceProcessor.m -o /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/WebServiceProcessor.o0#
+
+CCompileC build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/main.o /Users/Madhura/Documents/CarPool/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s301152350.664425
+e301152350.724672
+r1
+xCompileC
+xbuild/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/main.o
+x/Users/Madhura/Documents/CarPool/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/Madhura/Documents/CarPool/main.m301152350#301152350#0(0"0(0#0#39"/Users/Madhura/Documents/CarPool/main.m8597656960#1835"    cd /Users/Madhura/Documents/CarPool    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-generated-files.hmap -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-own-target-headers.hmap -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-all-target-headers.hmap -iquote /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-project-headers.hmap -F/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator -I/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/include -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/DerivedSources/i386 -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/DerivedSources -include /var/folders/1a/1auQ+tVAEzKi1NeT9Z7pVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarPool_Prefix-ahxpykwtnthdvteyyzwaseykeqhm/CarPool_Prefix.pch -c /Users/Madhura/Documents/CarPool/main.m -o /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Madhura/Documents/CarPool/CarPoolViewController.xib
+r0
+
+CCompileXIB /Users/Madhura/Documents/CarPool/Classes/FormView.xib
+s301152347.733380
+e301152348.380392
+r1
+xCompileXIB
+x/Users/Madhura/Documents/CarPool/Classes/FormView.xib
+lSLF07#2@31"CompileXIB Classes/FormView.xib301152347#301152348#0(0"0(0#0#53"/Users/Madhura/Documents/CarPool/Classes/FormView.xib8629965280#556"    cd /Users/Madhura/Documents/CarPool    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/FormView.nib /Users/Madhura/Documents/CarPool/Classes/FormView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/Madhura/Documents/CarPool/Classes/Register.xib
+s301152349.293016
+e301152349.855761
+r1
+xCompileXIB
+x/Users/Madhura/Documents/CarPool/Classes/Register.xib
+lSLF07#2@31"CompileXIB Classes/Register.xib301152349#301152349#0(0"0(0#0#53"/Users/Madhura/Documents/CarPool/Classes/Register.xib8624997120#556"    cd /Users/Madhura/Documents/CarPool    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/Register.nib /Users/Madhura/Documents/CarPool/Classes/Register.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/Madhura/Documents/CarPool/Classes/Reply.xib
+s301224211.000881
+e301224211.505713
+r1
+xCompileXIB
+x/Users/Madhura/Documents/CarPool/Classes/Reply.xib
+lSLF07#2@28"CompileXIB Classes/Reply.xib301224211#301224211#0(0"0(0#0#50"/Users/Madhura/Documents/CarPool/Classes/Reply.xib8635272096#550"    cd /Users/Madhura/Documents/CarPool    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/Reply.nib /Users/Madhura/Documents/CarPool/Classes/Reply.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/Madhura/Documents/CarPool/Community.xib
+s301152347.881316
+e301152348.388292
+r1
+xCompileXIB
+x/Users/Madhura/Documents/CarPool/Community.xib
+lSLF07#2@24"CompileXIB Community.xib301152347#301152348#0(0"0(0#0#46"/Users/Madhura/Documents/CarPool/Community.xib8629407424#550"    cd /Users/Madhura/Documents/CarPool    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/Community.nib /Users/Madhura/Documents/CarPool/Community.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/Madhura/Documents/CarPool/CreateComm.xib
+s301152348.417589
+e301152349.017223
+r1
+xCompileXIB
+x/Users/Madhura/Documents/CarPool/CreateComm.xib
+lSLF07#2@25"CompileXIB CreateComm.xib301152348#301152349#0(0"0(0#0#47"/Users/Madhura/Documents/CarPool/CreateComm.xib8627338304#552"    cd /Users/Madhura/Documents/CarPool    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/CreateComm.nib /Users/Madhura/Documents/CarPool/CreateComm.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/Madhura/Documents/CarPool/FormView.xib
+s300156709.339870
+e300156709.787845
+r1
+xCompileXIB
+x/Users/Madhura/Documents/CarPool/FormView.xib
+lSLF07#2@23"CompileXIB FormView.xib300156709#300156709#0(0"0(0#0#45"/Users/Madhura/Documents/CarPool/FormView.xib8617504224#548"    cd /Users/Madhura/Documents/CarPool    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/FormView.nib /Users/Madhura/Documents/CarPool/FormView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/Madhura/Documents/CarPool/InviteFriends.xib
+s301188924.741111
+e301188925.249926
+r1
+xCompileXIB
+x/Users/Madhura/Documents/CarPool/InviteFriends.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/Madhura/Documents/CarPool/InviteFriends.xib:7: warning: UITextView does not support data detectors when the text view is editable.
+lSLF07#2@28"CompileXIB InviteFriends.xib301188924#301188925#0(179"/* com.apple.ibtool.document.warnings *//Users/Madhura/Documents/CarPool/InviteFriends.xib:7: warning: UITextView does not support data detectors when the text view is editable.1(22@74"UITextView does not support data detectors when the text view is editable.301188925#18446744073709551615#0#0(6@50"/Users/Madhura/Documents/CarPool/InviteFriends.xib301187590#7#0#7#0#0"0(0#0#50"/Users/Madhura/Documents/CarPool/InviteFriends.xib31244066019737696#558"    cd /Users/Madhura/Documents/CarPool    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/InviteFriends.nib /Users/Madhura/Documents/CarPool/InviteFriends.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/Madhura/Documents/CarPool/JoinComm.xib
+s301152348.827413
+e301152349.292860
+r1
+xCompileXIB
+x/Users/Madhura/Documents/CarPool/JoinComm.xib
+lSLF07#2@23"CompileXIB JoinComm.xib301152348#301152349#0(0"0(0#0#45"/Users/Madhura/Documents/CarPool/JoinComm.xib8618728832#548"    cd /Users/Madhura/Documents/CarPool    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/JoinComm.nib /Users/Madhura/Documents/CarPool/JoinComm.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/Madhura/Documents/CarPool/LoginView.xib
+s330242190.187234
+e330242190.761608
+r1
+xCompileXIB
+x/Users/Madhura/Documents/CarPool/LoginView.xib
+lSLF07#2@24"CompileXIB LoginView.xib330242190#330242190#0(0"0(0#0#46"/Users/Madhura/Documents/CarPool/LoginView.xib8616248128#550"    cd /Users/Madhura/Documents/CarPool    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/LoginView.nib /Users/Madhura/Documents/CarPool/LoginView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/Madhura/Documents/CarPool/MainWindow.xib
+s300178065.451189
+e300178065.818224
+r1
+xCompileXIB
+x/Users/Madhura/Documents/CarPool/MainWindow.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/Madhura/Documents/CarPool/MainWindow.xib:3: warning: The 'viewController' outlet of 'CarPool App Delegate' is connected to 'View Controller' but 'UIViewController' is not a kind of 'CarPoolViewController' as specified by the outlet type.
+lSLF07#2@25"CompileXIB MainWindow.xib300178065#300178065#0(286"/* com.apple.ibtool.document.warnings *//Users/Madhura/Documents/CarPool/MainWindow.xib:3: warning: The 'viewController' outlet of 'CarPool App Delegate' is connected to 'View Controller' but 'UIViewController' is not a kind of 'CarPoolViewController' as specified by the outlet type.1(22@184"The 'viewController' outlet of 'CarPool App Delegate' is connected to 'View Controller' but 'UIViewController' is not a kind of 'CarPoolViewController' as specified by the outlet type.300178065#18446744073709551615#0#0(6@47"/Users/Madhura/Documents/CarPool/MainWindow.xib300178061#3#0#3#0#0"0(0#0#47"/Users/Madhura/Documents/CarPool/MainWindow.xib8606101216#552"    cd /Users/Madhura/Documents/CarPool    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/MainWindow.nib /Users/Madhura/Documents/CarPool/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/Madhura/Documents/CarPool/Notification.xib
+s301214647.563546
+e301214648.044782
+r1
+xCompileXIB
+x/Users/Madhura/Documents/CarPool/Notification.xib
+lSLF07#2@27"CompileXIB Notification.xib301214647#301214648#0(0"0(0#0#49"/Users/Madhura/Documents/CarPool/Notification.xib8631690304#556"    cd /Users/Madhura/Documents/CarPool    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/Notification.nib /Users/Madhura/Documents/CarPool/Notification.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/Madhura/Documents/CarPool/SearchView.xib
+s301173999.048796
+e301173999.451157
+r1
+xCompileXIB
+x/Users/Madhura/Documents/CarPool/SearchView.xib
+lSLF07#2@25"CompileXIB SearchView.xib301173999#301173999#0(0"0(0#0#47"/Users/Madhura/Documents/CarPool/SearchView.xib8622369696#552"    cd /Users/Madhura/Documents/CarPool    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/SearchView.nib /Users/Madhura/Documents/CarPool/SearchView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCpResource build/Debug-iphonesimulator/CarPool.app/06-magnifying-glass.png 06-magnifying-glass.png
+s301152348.403327
+e301152348.421568
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CarPool.app/06-magnifying-glass.png
+x06-magnifying-glass.png
+lSLF07#2@28"Copy 06-magnifying-glass.png301152348#301152348#0(0"0(0#0#56"/Users/Madhura/Documents/CarPool/06-magnifying-glass.png8629412608#449"    cd /Users/Madhura/Documents/CarPool    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Madhura/Documents/CarPool/06-magnifying-glass.png /Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app0#
+
+CCpResource build/Debug-iphonesimulator/CarPool.app/112-group.png 112-group.png
+s301152348.407460
+e301152348.421676
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CarPool.app/112-group.png
+x112-group.png
+lSLF07#2@18"Copy 112-group.png301152348#301152348#0(0"0(0#0#46"/Users/Madhura/Documents/CarPool/112-group.png8629003648#439"    cd /Users/Madhura/Documents/CarPool    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Madhura/Documents/CarPool/112-group.png /Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app0#
+
+CCpResource build/Debug-iphonesimulator/CarPool.app/18-envelope.png Classes/18-envelope.png
+s301152348.400391
+e301152348.421440
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CarPool.app/18-envelope.png
+xClasses/18-envelope.png
+lSLF07#2@28"Copy Classes/18-envelope.png301152348#301152348#0(0"0(0#0#56"/Users/Madhura/Documents/CarPool/Classes/18-envelope.png8629610784#449"    cd /Users/Madhura/Documents/CarPool    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Madhura/Documents/CarPool/Classes/18-envelope.png /Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app0#
+
+CCpResource build/Debug-iphonesimulator/CarPool.app/47-fuel.png 47-fuel.png
+s301152348.412878
+e301152348.422638
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CarPool.app/47-fuel.png
+x47-fuel.png
+lSLF07#2@16"Copy 47-fuel.png301152348#301152348#0(0"0(0#0#44"/Users/Madhura/Documents/CarPool/47-fuel.png8627583712#437"    cd /Users/Madhura/Documents/CarPool    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Madhura/Documents/CarPool/47-fuel.png /Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app0#
+
+CCpResource build/Debug-iphonesimulator/CarPool.app/_44013857_glo_sun_tewkesbury_cars.jpg Classes/_44013857_glo_sun_tewkesbury_cars.jpg
+s330242050.988022
+e330242051.012217
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CarPool.app/_44013857_glo_sun_tewkesbury_cars.jpg
+xClasses/_44013857_glo_sun_tewkesbury_cars.jpg
+lSLF07#2@50"Copy Classes/_44013857_glo_sun_tewkesbury_cars.jpg330242050#330242051#0(0"0(0#0#78"/Users/Madhura/Documents/CarPool/Classes/_44013857_glo_sun_tewkesbury_cars.jpg8615655808#471"    cd /Users/Madhura/Documents/CarPool    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Madhura/Documents/CarPool/Classes/_44013857_glo_sun_tewkesbury_cars.jpg /Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app0#
+
+CCpResource build/Debug-iphonesimulator/CarPool.app/black_car.png Classes/black_car.png
+s301152348.380485
+e301152348.400304
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CarPool.app/black_car.png
+xClasses/black_car.png
+lSLF07#2@26"Copy Classes/black_car.png301152348#301152348#0(0"0(0#0#54"/Users/Madhura/Documents/CarPool/Classes/black_car.png8630598272#447"    cd /Users/Madhura/Documents/CarPool    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Madhura/Documents/CarPool/Classes/black_car.png /Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app0#
+
+CGenerateDSYMFile /Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app.dSYM /Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/CarPool
+s301260894.721035
+e301260894.777421
+r1
+xGenerateDSYMFile
+x/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app.dSYM
+x/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/CarPool
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/CarPool.app.dSYM build/Debug-iphonesimulator/CarPool.app/CarPool301260894#301260894#0(0"0(0#0#80"/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/CarPool8626945696#365"    cd /Users/Madhura/Documents/CarPool    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/CarPool -o /Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app.dSYM0#
+
+CLd /Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/CarPool normal i386
+s301260894.669434
+e301260894.720936
+r1
+xLd
+x/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/CarPool
+xnormal
+xi386
+lSLF07#2@85"Link /Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/CarPool301260894#301260894#0(0"0(0#0#0"8628941760#870"    cd /Users/Madhura/Documents/CarPool    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator -F/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator -filelist /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/Objects-normal/i386/CarPool.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/CarPool0#
+
+CProcessInfoPlistFile /Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/Info.plist CarPool-Info.plist
+s301152347.293161
+e301152347.301438
+r1
+xProcessInfoPlistFile
+x/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/Info.plist
+xCarPool-Info.plist
+lSLF07#2@26"Process CarPool-Info.plist301152347#301152347#0(0"0(0#0#51"/Users/Madhura/Documents/CarPool/CarPool-Info.plist8629491488#461"    cd /Users/Madhura/Documents/CarPool    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CarPool-Info.plist -genpkginfo /Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app/Info.plist0#
+
+CProcessPCH /var/folders/1a/1auQ+tVAEzKi1NeT9Z7pVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarPool_Prefix-ahxpykwtnthdvteyyzwaseykeqhm/CarPool_Prefix.pch.gch CarPool_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s301152349.855887
+e301152350.664197
+r1
+xProcessPCH
+x/var/folders/1a/1auQ+tVAEzKi1NeT9Z7pVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarPool_Prefix-ahxpykwtnthdvteyyzwaseykeqhm/CarPool_Prefix.pch.gch
+xCarPool_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile CarPool_Prefix.pch301152349#301152350#0(0"0(0#0#51"/Users/Madhura/Documents/CarPool/CarPool_Prefix.pch8623875200#1733"    cd /Users/Madhura/Documents/CarPool    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-generated-files.hmap -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-own-target-headers.hmap -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-all-target-headers.hmap -iquote /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-project-headers.hmap -F/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator -I/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/include -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/DerivedSources/i386 -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/DerivedSources -c /Users/Madhura/Documents/CarPool/CarPool_Prefix.pch -o /var/folders/1a/1auQ+tVAEzKi1NeT9Z7pVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarPool_Prefix-ahxpykwtnthdvteyyzwaseykeqhm/CarPool_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/1a/1auQ+tVAEzKi1NeT9Z7pVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarPool_Prefix-cmvuqmfaigxnbsgjbctuaqjikvbj/CarPool_Prefix.pch.gch CarPool_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s300246594.129205
+e300246594.873782
+r1
+xProcessPCH
+x/var/folders/1a/1auQ+tVAEzKi1NeT9Z7pVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarPool_Prefix-cmvuqmfaigxnbsgjbctuaqjikvbj/CarPool_Prefix.pch.gch
+xCarPool_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile CarPool_Prefix.pch300246594#300246594#0(0"0(0#0#51"/Users/Madhura/Documents/CarPool/CarPool_Prefix.pch8610487872#1733"    cd /Users/Madhura/Documents/CarPool    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-generated-files.hmap -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-own-target-headers.hmap -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-all-target-headers.hmap -iquote /Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/CarPool-project-headers.hmap -F/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator -I/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/include -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/DerivedSources/i386 -I/Users/Madhura/Documents/CarPool/build/CarPool.build/Debug-iphonesimulator/CarPool.build/DerivedSources -c /Users/Madhura/Documents/CarPool/CarPool_Prefix.pch -o /var/folders/1a/1auQ+tVAEzKi1NeT9Z7pVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarPool_Prefix-cmvuqmfaigxnbsgjbctuaqjikvbj/CarPool_Prefix.pch.gch0#
+
+CTouch /Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app
+s330242190.764963
+e330242190.767806
+r1
+xTouch
+x/Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app
+lSLF07#2@78"Touch /Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app330242190#330242190#0(0"0(0#0#0"18859025310548080#266"    cd /Users/Madhura/Documents/CarPool    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Madhura/Documents/CarPool/build/Debug-iphonesimulator/CarPool.app0#
+
